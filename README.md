@@ -9,7 +9,7 @@ Paste JavaScript/TypeScript code → Get instant complexity analysis → Identif
 
 ## Why Complexity Matters
 - Functions with complexity > 10 are 2x more likely to contain bugs
-- Used by teams at Google, Microsoft, etc for code reviews
+- Used by teams etc for code reviews
 - Industry standard: keep complexity under 10
 
 ## Tech Stack
