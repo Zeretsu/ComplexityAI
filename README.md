@@ -2,7 +2,7 @@
 
 > Analyze cyclomatic complexity and identify refactoring targets
 
-[Live Demo](link) | [Video Demo](gif)
+ | [Video Demo](gif)
 
 ## What It Does
 Paste JavaScript/TypeScript code → Get instant complexity analysis → Identify problem functions
